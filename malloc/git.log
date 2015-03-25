@@ -1,0 +1,464 @@
+commit ab3589b41202d3b5345bdd5fcdb99079c7e7ae42
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Thu Mar 5 18:35:13 2015 -0800
+
+    some changes
+
+commit e2f3e7898a8af25291fcca1c927896b351d41a64
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Mar 5 16:47:40 2015 -0800
+
+    more tweaks and comments
+
+commit acf59ab31789bb03325a55d481383f439dd48262
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Mar 5 16:29:38 2015 -0800
+
+    A little rearrangment and commenting
+
+commit 5aa046f15b5b605f019b030442b15ea2d96ff6ea
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Mar 5 16:07:16 2015 -0800
+
+    corrected date on Makefile
+
+commit 18d10e255a92fe0046608774f9cc69eee0cf68ce
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Mar 5 00:46:01 2015 -0800
+
+    Touch ups, comments, dates
+
+commit 2c89876d21c85887b0ea545038e8641f1fb3495b
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Wed Mar 4 20:39:53 2015 -0800
+
+    Fixed print heap to print head then size instead of data then size
+
+commit 92aed983f506cee7ddcc13663dc2e7b0dc92f90d
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Mar 3 12:19:08 2015 -0800
+
+    more more comments
+
+commit 9b66daae900a3c23c38a95579847217745845b01
+Merge: 3cc3169 2041882
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Mar 3 12:10:15 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+
+commit 3cc31691393268db21982800b0726d87c9e19da2
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Mar 3 12:09:42 2015 -0800
+
+    more comments
+
+commit 204188261bfe71bdefbe34041b847e6f07838ca2
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Mar 3 12:06:36 2015 -0800
+
+    some comment updates
+
+commit 699fa511f93275313ab24667b94cd505193649be
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Mar 3 10:54:07 2015 -0800
+
+    Modified some casting, and restructured get_mem_stats
+
+commit 1bf1f51e7b5757c91406e06deda302d52738cd71
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Mar 3 01:02:20 2015 -0800
+
+    Removed stray code, fixed print_heap hex formatting
+
+commit fd69294140e29539012b388d80102b611f3b7ce8
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 23:21:51 2015 -0800
+
+    spaces to tabs
+
+commit 4757f585fd5b42e0dfc6a0e5a58a41e9a75df390
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Mon Mar 2 18:24:07 2015 -0800
+
+    some more comments
+
+commit 8de5cbb0fe66af80e26d8b48a576833c11d58cf8
+Merge: cd6111b 95d6e69
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Mon Mar 2 17:50:00 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+
+commit cd6111becb6efc7d4a6d90dc1c99a4db4c5d35da
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Mon Mar 2 17:47:05 2015 -0800
+
+    check
+
+commit 95d6e691497af722ad0d7a7568634194ed7e9a36
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 17:23:46 2015 -0800
+
+    A couple changes to README and bench.c
+
+commit b350a4f60f6339256b567dcf61ec5b261ec5ca2e
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 16:34:39 2015 -0800
+
+    Fixes freemem bug
+
+commit 61a39f3a76ea4a08cdc3481574b8dc4a578d0898
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 15:19:34 2015 -0800
+
+    corrections to combine
+
+commit ae63dd45e4d575a036e111bb74fe01ddb1a69920
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Mon Mar 2 15:07:32 2015 -0800
+
+    combine functionality.. maybe
+
+commit d82253c28529d691c884bddbc813fc2f2f666e3c
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 13:56:36 2015 -0800
+
+    A few minor updates
+
+commit 518774125b958b18eef96fbc36e5df5570dd6995
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 10:30:33 2015 -0800
+
+    Bench argument checking, and cleaned up getmem.c
+
+commit 6e090f212b71976351ffbf25208c7ef27d9abba4
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Mar 2 02:04:04 2015 -0800
+
+    Bench mostly functional. Losing blocks on reinsertion?
+
+commit 60bcadb91f1766fb5b5d7af5c7140dc7b457a7b4
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sun Mar 1 22:51:23 2015 -0800
+
+    Bench mostly complete. Needs checks on args
+
+commit ec252312be22094fb9f82fc7718d459b5bb0ea53
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sun Mar 1 20:49:04 2015 -0800
+
+    get_mem_stats.c now functional, fixed some casting warnings
+
+commit fa7f49955090ca967332d11c094ad5a812a6ee4a
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sun Mar 1 05:52:50 2015 -0800
+
+    Forced all blocks to 16 bytes
+
+commit c2ec0bac2cf2d2dc97cdb4b2628618ea614bf4f0
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sun Mar 1 05:38:38 2015 -0800
+
+    getmem.c basically feature complete, created basic print_heap, and added some memory grabs to demonstrate getmem in bench.c
+
+commit 7e5103954f5c8b5dee12a688c198664dc32d5f57
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sat Feb 28 20:55:16 2015 -0800
+
+    getmem works up to around 15000 bytes. Needs combine functions.
+
+commit 8d97bc6d6bf5f8e6a676719aafbc2620e84f1d0c
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sat Feb 28 19:33:03 2015 -0800
+
+    getmem is now functional with small values. Not functional with large or too many calls.
+
+commit 8d02ec353d98a6a797ae6884fcc6410ad76df4ea
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Sat Feb 28 03:46:35 2015 -0800
+
+    Most of getmem.c code. Doesn't work right now.
+
+commit ea8d9f0a7db168bc1cbf9b6fe6d1b80e914f4118
+Merge: bcc2f53 c5e4d03
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Fri Feb 27 15:21:55 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+
+commit bcc2f5371748834318dd80509026cb973c44e8aa
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Fri Feb 27 15:20:36 2015 -0800
+
+    starting
+
+commit c5e4d03b9dad05f1a6f2313fd93e8a3a5e9a6bbe
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Fri Feb 27 15:15:31 2015 -0800
+
+    changed sized of malloc blocks and fixed typo
+
+commit 13765e6e29ed872efa1eabfb6dcc98d7b4f5bee2
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 16:29:53 2015 -0800
+
+    typo in README
+
+commit e8c28e5ba3ddbc6e6cfcf2c2d7b8fe33555f71c6
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 16:15:41 2015 -0800
+
+    removing README.md
+
+commit d8275ae3aba61e98d8fb98b2bb3a01c6097257a6
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 16:05:09 2015 -0800
+
+    added Makedile to dist target
+
+commit 4e0a6a33a46f416112619cbfd12c80e9b59f6057
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 15:56:53 2015 -0800
+
+    changed return type of split function, corrected typo in freemem, and added inttypes.h to mem_impl.h
+
+commit cd12bd600a6f15458516a842c8ce31c06a0d977a
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 15:28:05 2015 -0800
+
+    Changed README file in Makefile
+
+commit cd95ac57a3a6c375c35b5ddc8a4430ad8240a38f
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 15:21:25 2015 -0800
+
+    created new README
+
+commit dff4b8e76f10134f6d88947d42f4220426c5eccf
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 14:57:14 2015 -0800
+
+    more comments
+
+commit 46673e7d80a93dc21f1af80648b5ed0734b3ddc6
+Merge: de9c5a5 2ee0f43
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 14:31:36 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+    
+    Conflicts:
+    	mem_impl.h
+
+commit de9c5a5c94aa9e623e96b4921a9c5b7af4648770
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 14:17:55 2015 -0800
+
+    Added Makefile targets test and dist
+
+commit 1ce888cdd49ee985c6b63c8f269c0d8e0cd47b08
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Thu Feb 26 14:11:54 2015 -0800
+
+    Formatting, basic comments, and additional make targets
+
+commit 2ee0f4313bf65216342922cd06eda6e56ed726b3
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Wed Feb 25 18:30:42 2015 -0800
+
+    got rid of the inttypes
+
+commit b8acba0085e335fa1290df7cfe0023499144e3cc
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Wed Feb 25 17:04:41 2015 -0800
+
+    skeleton update
+
+commit 084f092f9120a579e1e81b2ceb537fe54a437fb7
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Wed Feb 25 15:25:25 2015 -0800
+
+    aded headers
+
+commit 1268c910044f6161f409c2966f679ffef0089797
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Wed Feb 25 15:16:35 2015 -0800
+
+    removing test note
+
+commit b429442eee08a957fc1990de8ee3a29d27ee5dd8
+Merge: 51e61b6 297791d
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Wed Feb 25 14:56:07 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+    
+    Conflicts:
+    	freemem.c
+    	mem.h
+
+commit 51e61b6c5eab40bd5e8e111a9c8250bf29a57b24
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Wed Feb 25 14:45:18 2015 -0800
+
+    created the make file
+
+commit 1eaba2aeb2385f3e7183ff2dfc687954dd34b3c8
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Wed Feb 25 14:35:44 2015 -0800
+
+    This is to fix the overwrite
+
+commit 297791da5a5c2817edca4e9f752cd20ed166b3ef
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Wed Feb 25 14:19:01 2015 -0800
+
+    initial skeletons
+
+commit 96c3e17678797a2680b4afad94d6b21b59ba9289
+Merge: 1e90d4f 776f5a3
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 23:56:35 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+
+commit 776f5a3cf0a59eab759278958f58cd182df2a078
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 18:17:20 2015 -0800
+
+    I GOT IT DAVE
+
+commit 8525aeacac4828e3cc3465535df5ce5f6c8f4395
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:43:20 2015 -0800
+
+    comments
+
+commit 96e03c06349084a8d4a5aa27218a0a3dee631732
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:42:28 2015 -0800
+
+    added header files
+
+commit 8d4681c1230be3cf853bb747b49888a7a9dad126
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:39:45 2015 -0800
+
+    added header comments
+
+commit 1d093c68c80436a08de8cb3f3443ee53a272913d
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:37:34 2015 -0800
+
+    add header comments
+
+commit d75a28a68dfa159d1a9967403a1db747d7b19df7
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:36:33 2015 -0800
+
+    header comments added
+
+commit e59466ab680068cc298b4d971eba2aed724b14aa
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:35:31 2015 -0800
+
+    added commented header
+
+commit a97254512dd228fc10ed4790a2677f3427638e46
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 17:27:28 2015 -0800
+
+    comment on code purpose
+
+commit 68d04e972a31510a0f0b9940bf93c3267ae856fe
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 17:19:27 2015 -0800
+
+    Add bench.c
+
+commit 1c6efb6c83ae3b56f27a05ef5af333013e075c8b
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:15:05 2015 -0800
+
+    update
+
+commit 1e90d4f86e159ba48cc312c92f65805496647bea
+Merge: 820ca16 ab339b2
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 17:12:01 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+
+commit ab339b2c67284b66f0752868b8b4b2cff91e1733
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:11:17 2015 -0800
+
+    fix
+
+commit 820ca161dc340779a6bb16fb27ad0010a36075c7
+Merge: 46fb287 74e2a2b
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 17:10:48 2015 -0800
+
+    Merge branch 'master' of gitlab.cs.washington.edu:cse374-15wi-proj/hw6-cg
+
+commit 74e2a2b46fd79f37c993904e95da42e5376a457b
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:09:21 2015 -0800
+
+    update
+
+commit 46fb2871a9812940c2dfae22338b876b1a5b79ae
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 17:09:20 2015 -0800
+
+    create makefile
+
+commit 2a3fcc0847e3ca1af38159983df417f26ea49c81
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:05:13 2015 -0800
+
+    update
+
+commit e448d8d96045107720928f8f870da10c21c353cc
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:04:30 2015 -0800
+
+    update
+
+commit a4132731ec44f484567447d78a4a6159e148ec56
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:02:47 2015 -0800
+
+    update
+
+commit 98e2307e6be7ad30bc94b2d16faa2d3ce7699586
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 17:01:47 2015 -0800
+
+    update
+
+commit 81761dda2a5a2243251cd7b770a74647baf10de8
+Author: RAYMOND W MUI <rmui34@u.washington.edu>
+Date:   Tue Feb 24 16:47:03 2015 -0800
+
+    better update
+
+commit c691349f37f180fadee33a192a344e4d815d2e32
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 16:46:48 2015 -0800
+
+    Updating mem.h
+
+commit 30669b29e573387ac7502e2bd03d30fcbc5ada1c
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Tue Feb 24 16:38:14 2015 -0800
+
+    Initial file creation
+
+commit c211359485ddd817d06757dc59d1d07a1efe983c
+Author: DAVID ADAM RENNICK <drennick@u.washington.edu>
+Date:   Mon Feb 23 23:00:59 2015 -0800
+
+    first commit
